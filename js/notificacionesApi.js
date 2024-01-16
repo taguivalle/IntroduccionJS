@@ -127,10 +127,10 @@ boton.addEventListener('click', function (params) {
         .then(resultado => console.log(`El resultado es: ${resultado}`))
 });
 if (Notification.permission == 'granted') {
-    new Notification('esta es una notificación'), {
-        icon: '..img/icono.png',
+    new Notification('esta es una notificación', {
+        icon: 'img/icono.png',
         body: 'Código de Tavo'
-    }
+    })
 }
 notificationsApi15 = "Posteriormente, al guardar cambios nos debe salir la notificación correspondiente; Esto pasa porque \
 el usuario nos dió permiso. y sí queremos cambiar los permisos de bloquear por ejemplo guardamos y podemos observar que \
