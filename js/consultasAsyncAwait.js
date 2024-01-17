@@ -160,9 +160,8 @@ segundos (3') que entran en el mismo rango de tiempo de los cinco segundos (5').
 console.log(consultasAsyncAwait8);
 consultasAsyncAwait9 = "Recordemos que, los paréntesis del Promise.all nos dan a entender que es una función con unos \
 corchetes cuadrados [] para indicar que es un array con dos funciones; para irlas ejecutando una tras otra. finalmente, \
-en la siguiente lección one hundred forty three (143) vamos a ver el tema de fecha y API y con este daremos por culminado \
+en la siguiente lección one hundred forty three (143) vamos a ver el tema de fetch y API y con este daremos por culminado \
 con el entrenamiento básico de JavScript; aunque, se trató de abarcar los más básico de este excelente lenguaje de \
 programación; no sin antes advertir que lo expresado en estas lecciones no lo es un todo; Pero es deber de cada uno de \
-nosotros como aprendices en ir aumentando los conocimiento en el tema. \
-";
+nosotros como aprendices en ir aumentando los conocimiento en el tema.";
 console.log(consultasAsyncAwait9);
