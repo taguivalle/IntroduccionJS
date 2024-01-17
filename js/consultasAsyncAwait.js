@@ -1,7 +1,6 @@
 // IN this lesson one hundred forty two (142) we will discuss the issue of Consultas Async Await
 let consultasAsyncAwait, consultasAsyncAwait1, consultasAsyncAwait2, consultasAsyncAwait3, consultasAsyncAwait4,
-    consultasAsyncAwait5, consultasAsyncAwait6, consultasAsyncAwait7, consultasAsyncAwait8, consultasAsyncAwait9,
-    consultasAsyncAwait10, consultasAsyncAwait11, consultasAsyncAwait12, consultasAsyncAwait13, consultasAsyncAwait14;
+    consultasAsyncAwait5, consultasAsyncAwait6, consultasAsyncAwait7, consultasAsyncAwait8, consultasAsyncAwait9;
 consultasAsyncAwait = "Par la realización de esta lección one hundred forty two (142) vamos a utlizar el mismo ejemplo \
 de la lección anterior one hundred forty one (141) call Async await; par continuar con la segunda parte de como hacer \
 dos consultas con Async await.";
